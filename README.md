@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ZimonIsHim/stdExtended" rel="noopener">
+  <a href="https://github.com/pkg-dot-zip/stdExtended" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/1CWWMG5.png" alt="Project logo"></a>
 </p>
 
@@ -7,10 +7,10 @@
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/ZimonIsHim/stdExtended)](https://github.com/ZimonIsHim/stdExtended/stargazers)
-[![Downloads](https://img.shields.io/github/downloads/ZimonIsHim/stdExtended/total)](https://github.com/ZimonIsHim/stdExtended/releases)
-[![Last Commit](https://img.shields.io/github/last-commit/ZimonIsHim/stdExtended)](https://github.com/ZimonIsHim/stdExtended/commits/development)
-[![License](https://img.shields.io/github/license/ZimonIsHim/stdExtended)](/LICENSE)
+[![Stars](https://img.shields.io/github/stars/pkg-dot-zip/stdExtended)](https://github.com/pkg-dot-zip/stdExtended/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/pkg-dot-zip/stdExtended/total)](https://github.com/pkg-dot-zip/stdExtended/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/pkg-dot-zip/stdExtended)](https://github.com/pkg-dot-zip/stdExtended/commits/development)
+[![License](https://img.shields.io/github/license/pkg-dot-zip/stdExtended)](/LICENSE)
 
 </div>
 
@@ -28,4 +28,4 @@
 StdExtended is a simple library extending the standard library of Java & Kotlin, in Kotlin.
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@ZimonIsHim](https://github.com/ZimonIsHim) - Development
+- [@OnsPetruske](https://github.com/pkg-dot-zip) - Development
