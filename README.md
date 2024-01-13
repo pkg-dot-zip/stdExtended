@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pkg-dot-zip/stdExtended" rel="noopener">
- <img width=200px height=200px src="" alt="Project logo"></a>
+ <img width=400px height=400px src="https://raw.githubusercontent.com/pkg-dot-zip/stdExtended/master/stdExtendedLogo2.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">stdExtended</h3>
